@@ -1,0 +1,7 @@
+﻿  physicsProject.cpp
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(26,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\theow\source\repos\physicsProject - Copy\physicsProject\matrix_calculations.h(29,23): warning C4018: '<': signed/unsigned mismatch
+  physicsProject.vcxproj -> C:\Users\theow\source\repos\physicsProject - Copy\Debug\physicsProject.exe
